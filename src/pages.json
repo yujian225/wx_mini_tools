@@ -1,0 +1,22 @@
+{
+	"pages": [
+		{
+			"path": "pages/jisuqi/jisuanqi",
+			"style": {
+				"navigationBarTitleText": "计算器"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "uni-app"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
